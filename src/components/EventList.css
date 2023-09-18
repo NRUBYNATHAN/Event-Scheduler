@@ -1,0 +1,28 @@
+.listhead{
+    color: rgb(168, 248, 7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list{
+    width: 300px;
+    background-color: rgb(236, 229, 242);
+    padding: 10px;
+    border-radius: 20px;
+   margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items:self-start;
+    justify-content: center;
+}
+.btns{
+    display: flex;
+   
+    gap: 20px;
+    margin-left: 10px;
+    
+}
+.names{
+    color: rgb(3, 159, 243);
+    font-size: 18px;
+}
